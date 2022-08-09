@@ -7,7 +7,7 @@ renewify makes it easy for you to quickly renew all classified ads with just one
 ## 🔥 Features
 
 - [x] reminds you to renew classifieds
-- [x] one-click renew with one click
+- [x] one-click renew
 - [x] lightweight and simple
 
 ## 📥 Download 
