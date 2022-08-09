@@ -19,7 +19,7 @@ chrome.runtime.onMessage.addListener(function (data) {
           options: {
             title: "Do you want to run renewify?",
             message:
-              "Click here to renew your expiriring classifieds with one click.",
+              "Click here to renew your expiring classifieds with one click.",
             iconUrl: "icons/icon128.png",
             type: "basic",
           },
