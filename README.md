@@ -16,7 +16,7 @@ renewify makes it easy for you to quickly renew all classified ads with just one
 
 Download the extension via the Chrome Web Store. Works in every Chromium-based browser (Chrome/Brave/Edge/Opera/Vivaldi).
 
-<a href="https://chrome.google.com/webstore/detail/nabjojlbegadlhnfalbapmpckdihmmae"><img src="/demo/demo_btn_renewify.jpg" width="290px" alt="renewify_btn"/></a>
+<a href="https://chrome.google.com/webstore/detail/nabjojlbegadlhnfalbapmpckdihmmae"><img src="/demo/demo_btn_renewify.png" width="290px" alt="renewify_btn"/></a>
 
 ### Method 2: Manual installation
 
